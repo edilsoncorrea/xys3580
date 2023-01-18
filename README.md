@@ -1,5 +1,7 @@
-# xys3580
-Módulo fonte ajustável 35V 5A
+# XYS3580 = 5A Buck - Boost 
+
+### Review of XYS3580 5A Step-down Step-up 5A 35V Constant Current converter
+https://www.youtube.com/watch?v=4J3FQ8jVokY&t=530
 
 
 ### Jump to different section of video by clicking on the time:
